@@ -24,7 +24,7 @@ from modules.wpscan import wp_scan
 from modules.joomscan import joom_scan
 from modules.sslscan import ssl_scan
 from modules.droopescan import droopes_scan
-from modules.drupwnscan import drupwn_scan
+
 
 
 
